@@ -5,3 +5,4 @@ Gitの練習をしていきます。
 ・aaaa
 ・rm
 ・git
+・git status
